@@ -70,10 +70,10 @@ elif choice == "Detección de Retinopatía":
 elif choice == "Equipo":
     st.subheader("Equipo")
     st.sidebar.header("Integrantes del Equipo")
-    st.sidebar.write("Lila")
-    st.sidebar.write("Integrante2")
-    st.sidebar.write("Integrante3")
-    st.sidebar.write("Integrante4")
+    st.sidebar.write("Lila Zarai Huanca Ampuero")
+    st.sidebar.write("Yojan Alexander Manosalva Peralta")
+    st.sidebar.write("Michael Richard Gavino Isidro")
+    st.sidebar.write("Sebastian Marcelo Pacheco Vidalon")
     
 elif choice == "Acerca de":
     st.subheader("Acerca de")
